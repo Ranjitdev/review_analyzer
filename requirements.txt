@@ -1,0 +1,8 @@
+selenium
+streamlit
+requests
+beautifulsoup4
+numpy
+pandas
+nltk
+-e .
